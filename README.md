@@ -1,4 +1,4 @@
-## Wow you fond me! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="25" height="25" />
+## Wow you found me! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="25" height="25" />
 Hi!
 I’m a computer science student with a strong passion for learning new things every day and understanding how things work behind the scenes.
 
