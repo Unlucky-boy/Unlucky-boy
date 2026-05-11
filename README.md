@@ -11,7 +11,7 @@
 
 ### `< João Gabriel Freitas />`
 
-**CS Student @ UFAL · Software Developer · Brazil 🇧🇷**
+**CS Student @ UFAL · Cybersecurity · Software Developer · Brazil 🇧🇷**
 
 *Building things at the intersection of code, design, and curiosity.*
 
