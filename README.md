@@ -1,64 +1,122 @@
-## Wow you found me! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="25" height="25" />
-Hi!
-I’m a computer science student with a strong passion for learning new things every day and understanding how things work behind the scenes.
+<div align="center">
 
-This is one of my little corners of the internet where I share some of my projects, experiments, and pieces of code that I build along the way. I enjoy exploring different areas of computing, such as innovative design, AI, and cybersecurity as a whole.
-<!--
-**Unlucky-boy/Unlucky-boy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+██╗   ██╗███╗   ██╗██╗      ██╗   ██╗ ██████╗██╗  ██╗██╗   ██╗    ██████╗  ██████╗ ██╗   ██╗
+██║   ██║████╗  ██║██║      ██║   ██║██╔════╝██║ ██╔╝╚██╗ ██╔╝    ██╔══██╗██╔═══██╗╚██╗ ██╔╝
+██║   ██║██╔██╗ ██║██║      ██║   ██║██║     █████╔╝  ╚████╔╝     ██████╔╝██║   ██║ ╚████╔╝ 
+██║   ██║██║╚██╗██║██║      ██║   ██║██║     ██╔═██╗   ╚██╔╝      ██╔══██╗██║   ██║  ╚██╔╝  
+╚██████╔╝██║ ╚████║███████╗ ╚██████╔╝╚██████╗██║  ██╗   ██║       ██████╔╝╚██████╔╝   ██║   
+ ╚═════╝ ╚═╝  ╚═══╝╚══════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝   ╚═╝       ╚═════╝  ╚═════╝   ╚═╝   
+```
 
-Here are some ideas to get you started:
+### `< João Gabriel Freitas />`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
-## Tools & Tech <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Python
-- Automation and scripting
-- Backend development
-- Data processing
-- Security-related tooling
+**CS Student @ UFAL · Software Developer · Brazil 🇧🇷**
 
-Tools & Libraries:
-Python, Flask, FastAPI, Django, Requests, BeautifulSoup, SQLAlchemy
+*Building things at the intersection of code, design, and curiosity.*
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="25" height="25" /> Web Development
-- Responsive and accessible web applications
-- RESTful APIs
-- Frontend & backend integration
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jo%C3%A3o-gabriel-freitas-euz%C3%A9bio-1a5730203)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jgabri3l/)
+[![GitHub followers](https://img.shields.io/github/followers/Unlucky-boy?style=for-the-badge&logo=github&label=Follow)](https://github.com/Unlucky-boy)
 
-Frontend:
-HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
+</div>
 
-Backend:
-Flask, FastAPI, Django
+---
 
-Databases:
-PostgreSQL, MySQL, SQLite
+## `> whoami`
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Artificial Intelligence
-- Using AI to improve productivity and automation
-- Integrating AI models into applications
-- Prompt engineering and API-based AI usage
+```python
+class JG:
+    name     = "João Gabriel Freitas"
+    alias    = "Unlucky-boy"
+    location = "Alagoas, Brazil 🇧🇷"
+    uni      = "UFAL — Computer Science"
+    
+    focus    = ["Backend Development", "Web Apps", "Cybersecurity", "AI"]
+    vibes    = ["Experimental Music 🎵", "Fashion 🧥", "How things work under the hood 🔧"]
+    
+    currently_learning = "always something new"
+```
 
-Tools & Concepts:
-Machine Learning basics, LLMs, Prompt Engineering,
-OpenAI API, Hugging Face, Scikit-learn, Pandas, NumPy
+---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Cybersecurity
-- Web application security
-- Vulnerability analysis
-- Secure coding practices
-- Basic penetration testing
+## `> tech_stack --list`
 
-Tools & Concepts:
-Linux, Bash, Git, Nmap, Burp Suite, Wireshark,
-OWASP Top 10, SQL Injection, XSS, Auth & Access Control
+### 🐍 Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 
-## Some of my interests <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="25" height="25" />
-- Fashion is one of the things that I like the most<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Safety%20Pin.png" alt="Safety Pin" width="25" height="25" />
-- I really love experimetal music<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />
-- You migth catch me often in the gym<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" />
+> Automation · Backend APIs · Data processing · Security tooling
+
+---
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+> RESTful APIs · Responsive UIs · Frontend & backend integration
+
+---
+
+### 🤖 Artificial Intelligence
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+> LLMs · Prompt Engineering · ML basics · AI-powered apps
+
+---
+
+### 🛡️ Cybersecurity
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+> Web app security · Vulnerability analysis · Secure coding · Basic pentesting  
+> Concepts: OWASP Top 10 · SQL Injection · XSS · Auth & Access Control · Nmap · Burp Suite
+
+---
+
+## `> github --stats`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Unlucky-boy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unlucky-boy&layout=compact&theme=tokyonight&hide_border=true" />
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Unlucky-boy&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## `> interests --personal`
+
+```
+▸ Fashion  ............  one of those things that never gets old
+▸ Experimental Music  .  the weirder, the better
+▸ How things work  ....  under the hood, behind the scenes
+```
+
+---
+
+<div align="center">
+
+*"The best way to understand something is to build it."*
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Unlucky-boy.Unlucky-boy)
+
+</div>
