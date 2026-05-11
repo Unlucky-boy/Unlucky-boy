@@ -53,6 +53,17 @@ class JG:
 
 ---
 
+### 🛡️ Cybersecurity
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+> Web app security · Vulnerability analysis · Secure coding · Basic pentesting  
+> Concepts: OWASP Top 10 · SQL Injection · XSS · Auth & Access Control · Nmap · Burp Suite
+
+---
+
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -79,44 +90,14 @@ class JG:
 
 ---
 
-### 🛡️ Cybersecurity
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-> Web app security · Vulnerability analysis · Secure coding · Basic pentesting  
-> Concepts: OWASP Top 10 · SQL Injection · XSS · Auth & Access Control · Nmap · Burp Suite
-
----
-
 ## `> github --stats`
 
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Unlucky-boy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unlucky-boy&layout=compact&theme=tokyonight&hide_border=true" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Unlucky-boy&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## `> interests --personal`
-
-```
-▸ Fashion  ............  one of those things that never gets old
-▸ Experimental Music  .  the weirder, the better
-▸ How things work  ....  under the hood, behind the scenes
-```
-
----
-
-<div align="center">
-
-*"The best way to understand something is to build it."*
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Unlucky-boy.Unlucky-boy)
 
 </div>
