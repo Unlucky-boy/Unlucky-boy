@@ -28,7 +28,6 @@
 ```python
 class JG:
     name     = "João Gabriel Freitas"
-    alias    = "Unlucky-boy"
     location = "Alagoas, Brazil 🇧🇷"
     uni      = "UFAL — Computer Science"
     
