@@ -86,17 +86,3 @@ class JG:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 > LLMs · Prompt Engineering · ML basics · AI-powered apps
-
----
-
-## `> github --stats`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Unlucky-boy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unlucky-boy&layout=compact&theme=tokyonight&hide_border=true" />
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Unlucky-boy&theme=tokyonight&hide_border=true)
-
-</div>
