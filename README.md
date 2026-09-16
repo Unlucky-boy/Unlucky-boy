@@ -17,7 +17,7 @@
 
 ---
 
-<img align="left" src="./assets/decor/cosmos.webp" width="180">
+<img align="left" src="./assets/cosmos_transparent.webp" width="320">
 
 ### Sobre mim
 
@@ -31,7 +31,7 @@ O que me move é entender a engenharia por trás das coisas até o ponto de cons
 
 ---
 
-<img align="right" src="./assets/decor/jupiter.png" width="180" alt="Ilustração em ASCII de um planeta">
+<img align="right" src="./assets/jupiter.png" width="400" alt="Ilustração em ASCII de um planeta">
 
 ### Stack e ferramentas
 
@@ -108,7 +108,7 @@ O que me move é entender a engenharia por trás das coisas até o ponto de cons
 
 ---
 
-<img align="right" src="./assets/decor/flowers.gif" width="180" alt="Ilustração em ASCII de flores">
+<img align="right" src="./assets/flowers.gif" width="230" alt="Ilustração em ASCII de flores">
 
 ### Principais interesses
 
